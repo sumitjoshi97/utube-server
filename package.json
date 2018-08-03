@@ -1,0 +1,8 @@
+{
+  "name": "utube-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sumitjoshi97/utube-server.git",
+  "author": "Sj",
+  "license": "MIT"
+}
